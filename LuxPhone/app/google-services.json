@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933089515710",
+    "firebase_url": "https://luxphone-c2511.firebaseio.com",
+    "project_id": "luxphone-c2511",
+    "storage_bucket": "luxphone-c2511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933089515710:android:8a67bbebf8a63cd8b9e6ef",
+        "android_client_info": {
+          "package_name": "com.hungnguyen.luxphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933089515710-s9is9fdlj00rf4379lhsggvlt3jj91rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungnguyen.luxphone",
+            "certificate_hash": "b814a7c6f57e4b001bd545e3fe142bea2067ea74"
+          }
+        },
+        {
+          "client_id": "933089515710-skgk8mg63j3pugrnosumrf41fkqne5p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC_szMVT5whVN-fSZfQE4Y9HYv93ZVtFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933089515710-skgk8mg63j3pugrnosumrf41fkqne5p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

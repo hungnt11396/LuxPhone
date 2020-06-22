@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lux Phone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_product">Sản phẩm</string>
+    <string name="title_news">Tin tức</string>
+    <string name="title_sale">Hỗ trợ</string>
+    <string name="title_detail">Chi tiết sản phẩm</string>
+    <string name="samsung"><u>Samsung</u></string>
+    <string name="iphone"><u>Iphone</u></string>
+    <string name="title_buy">Giỏ hàng</string>
+    <string name="oppo"><u>Oppo</u></string>
+    <string name="vsmart"><u>Vsmart</u></string>
+    <string name="price1"><u>Dưới 3 triệu</u></string>
+    <string name="price2"><u>Từ 3 triệu đến dưới 7 triệu</u></string>
+    <string name="price3"><u>Từ 7 triệu đến dưới 15 triệu</u></string>
+    <string name="price4"><u>Trên 15 triệu</u></string>
+    <string name="priceMin">Nhập giá thấp nhất</string>
+    <string name="priceMax">Nhập giá cao nhất</string>
+    <string name="l_c">lọc</string>
+    <string name="h_y">Hủy</string>
+    <string name="g_i">Gợi ý:</string>
+    <string name="deleteProduct">Xóa</string>
+    <string name="TotalPrice">Tổng Tiền:</string>
+    <string name="Pay">Mua</string>
+    <string name="title_info">Thông tin khách hàng</string>
+</resources>

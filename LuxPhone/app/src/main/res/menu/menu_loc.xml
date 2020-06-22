@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Samsung"
+        android:title="@string/samsung"/>
+
+    <item
+        android:id="@+id/Iphone"
+        android:title="@string/iphone"/>
+    <item
+        android:id="@+id/Oppo"
+        android:title="@string/oppo"/>
+    <item
+        android:id="@+id/Vsmart"
+        android:title="@string/vsmart"/>
+    <item
+        android:id="@+id/price1"
+        android:title="@string/price1"/>
+    <item
+        android:id="@+id/price2"
+        android:title="@string/price2"/>
+    <item
+        android:id="@+id/price3"
+        android:title="@string/price3"/>
+    <item
+        android:id="@+id/price4"
+        android:title="@string/price4"/>
+</menu>

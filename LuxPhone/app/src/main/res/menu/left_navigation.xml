@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/left_nav_product"
+        android:icon="@drawable/ic_phone_android_black_24dp"
+        android:title="@string/title_product"/>
+
+    <item
+        android:id="@+id/left_nav_news"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="@string/title_news"/>
+
+    <item
+        android:id="@+id/left_nav_supports"
+        android:icon="@drawable/contact_support_black"
+        android:title="@string/title_sale"/>
+    <item
+        android:id="@+id/left_nav_shoppingCart"
+        android:icon="@drawable/shopping_cart"
+        android:title="@string/title_buy"/>
+</menu>
